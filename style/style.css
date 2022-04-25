@@ -33,6 +33,7 @@ body{
     width: 19%;
     text-align: center;
     transition: background-color .5s;
+    text-decoration: none;
 }
 
 .navButton:hover{
@@ -62,7 +63,6 @@ body{
 }
 .blog-post{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
     border: 1px solid black;
     margin: 5px;
     height: 150px;
